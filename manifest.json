@@ -1,0 +1,17 @@
+{
+  "name": "LAT Team Support",
+  "short_name": "LAT Support",
+  "description": "LAT Team Support portal for Barton Malow project sites.",
+  "start_url": "./drone-scheduler.html",
+  "id": "./drone-scheduler.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#00263A",
+  "theme_color": "#00263A",
+  "categories": ["productivity", "utilities"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ],
+  "prefer_related_applications": false
+}

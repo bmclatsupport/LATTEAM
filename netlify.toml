@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/"
+  to   = "/drone-scheduler.html"
+  status = 200
